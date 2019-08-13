@@ -11,4 +11,4 @@ function maskify(cc) {
   return masked.join("");
 }
 
-maskify("elephants");
+maskify("123456789");
